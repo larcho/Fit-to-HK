@@ -5,3 +5,6 @@ The app has to potential to be used in other scenarios as well. Feel free to do 
 
 ### Licenses
 I would love to make this application available in the App Store but I'm not sure what the licensing requirements are for using Garmin Fit files.
+
+### FitDataProtocol
+This project heavily relies on FitDataProtocol made by Kevin A. Hoogheem.
